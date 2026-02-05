@@ -21,9 +21,13 @@ This documentation focuses on the main user-facing functionality of the Demoblaz
 
 ---
 
-## 📂 Repository Structure
+## 📂 Main repository files
 
-[test_strategy](https://github.com/MaciejMatch/Test-Documentation/blob/main/test_strategy.md)
+1.[Test Strategy](https://github.com/MaciejMatch/Test-Documentation/blob/main/test_strategy.md)
+
+2.[Test Plan](https://github.com/MaciejMatch/Test-Documentation/blob/main/Test%20Plan.md)
+
+3.[Test Summary report](https://github.com/MaciejMatch/Test-Documentation/blob/main/Test%20Summary%20Report.md)
 
  
 
