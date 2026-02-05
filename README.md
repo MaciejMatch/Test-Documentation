@@ -26,7 +26,7 @@ This documentation focuses on the main user-facing functionality of the Demoblaz
 test-documentation/
 │
 ├── Test_Strategy/
-│ └── test_strategy.md # Defines testing methodology and approach
+│ └── [test_strategy.md](https://github.com/MaciejMatch/Test-Documentation/blob/main/test_strategy.md)
 ├── Test_Plan/
 │ └── test_plan.md # Detailed test plan with scope, approach, and resources
 └── Test_Summary_Report/
