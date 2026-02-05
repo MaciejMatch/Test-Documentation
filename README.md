@@ -23,7 +23,7 @@ This documentation focuses on the main user-facing functionality of the Demoblaz
 
 ## 📂 Main repository files
 
-1.[Test Strategy](https://github.com/MaciejMatch/Test-Documentation/blob/main/test_strategy.md)
+1.[Test Strategy](https://github.com/MaciejMatch/Test-Documentation/blob/main/Test%20Strategy.md)
 
 2.[Test Plan](https://github.com/MaciejMatch/Test-Documentation/blob/main/Test%20Plan.md)
 
