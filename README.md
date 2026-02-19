@@ -117,7 +117,7 @@ This repository focuses on high-level QA artifacts that demonstrate test plannin
 
 ### Process Knowledge
 - ✅ SDLC understanding
-- ✅ QA best practices
+- ✅ tests best practices
 - ✅ Defect lifecycle management
 - ✅ Continuous improvement mindset
 
@@ -218,7 +218,7 @@ Explore my complete QA portfolio:
 
 **Maciej Miszewski**  
 ISTQB Certified Tester – Foundation Level  
-QA / Software Tester | 2+ Years Experience
+Software Tester | 2+ Years Experience
 
 📧 **Email:** mjmiszewski@wp.pl  
 🔗 **LinkedIn:** [Maciej Miszewski](https://www.linkedin.com/in/maciej-miszewski-b2a8aa17b)  
@@ -242,7 +242,7 @@ QA / Software Tester | 2+ Years Experience
 
 ## 📎 Notes
 
-This documentation was created for **educational and portfolio purposes** to demonstrate professional QA documentation skills. The documents follow industry standards (ISTQB) and best practices used in commercial software testing projects.
+This documentation was created for **educational and portfolio purposes** to demonstrate professional  documentation skills. The documents follow industry standards (ISTQB) and best practices used in commercial software testing projects.
 
 **Created:** January 2026  
 **Last Updated:** February 2026  
